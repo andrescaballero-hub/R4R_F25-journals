@@ -8,7 +8,7 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > **Due Wednesday 10th, 11pm**
 
 ### Rose
-
+A single sentence
 
 ### Thorn
 
@@ -29,4 +29,5 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **Due Thursday 18th, 11am**
