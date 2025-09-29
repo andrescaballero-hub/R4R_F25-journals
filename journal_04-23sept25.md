@@ -8,13 +8,13 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > **Due Wednesday 24th, 11pm**
 
 ### Rose
-
+Learning how to talk to LLMs is particularyl important for my research as I am using Claude to write code for me. So even the way that Claude writes the code can be adjusted so that the script generates something that is more visual (ex. progress bars), you can also ask Claude to explain what does the parameters mean and how to easily adjust them. So the instructions of your project, when having a paid version, the way that you ask LLMs to do the task for you, all of that, will make the collaboration a space for learning as well. Instead of just asking it to do the work for you. 
 
 ### Thorn
-
+I don't see any way in which this is not applicable to my research. I just wish we could go much more in depth on ways of talking to LLMs. 
 
 ### Bud
-
+Learning how to collaborate and use my preferred LLMs as an assistant that works with me and that expands my limitations, instead of just abusing it for everything. 
 
 ---
 
@@ -35,3 +35,4 @@ I think these resources can be somehow applicable to my work. Highlighting how s
 > **Due Thursday 2nd, 11am**
 > We discussed a variety of subjects. Some of them not as applicable to an artistic research but still itneresting. For example, how to maintain an unbiased scientific research by not trying to prove ah hypothesis by manipulating data. Especially when it is sponsored by a company that is lookign to justify their product in a market. This was referred as "negative results". I can imagine it is a dilemma to invest a lot of time and effort into an investigation only to realize that it was wrong all along, but this would still feel like it can provide an insight that you werent expecting. On an artistic methodology sometimes this unexpected results or happy accidents can become the most interesting part of a project and many times they are welcomed and incorporated to the final result.
 > The second half of the discussion was pretty interesting, we discussed about what AI tools are we already using and which one we would incorporate into our workflow. We also discussed how this has changed the academic environment and how the education system needs to adapt to this change by implementing assignments that dont rely as much on papers or essays, as this type of writing has been almost completely replaced by AI. But instead looking for a more experiential learning, where students have to prove their knowledge through a practical exercise. Some people even mentiones having test or final examinations by using handwritting instead, but I added that in no time technology can find a way to overcoming this solution by incorporating screens into glasses. Perhaps, this will become normalized, implementing temporary solutions to fight plagiarism until there is a new technological advancement that adapats and makes this solution pointless. 
+
