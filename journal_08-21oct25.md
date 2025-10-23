@@ -8,13 +8,13 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > **Due Wednesday 22nd, 11pm**
 
 ### Rose
-
+It was really interesting to learn about this computer that is available for students. I heard some stuff about it but now I know what it is and how it works. I dont think I need for my research though. 
 
 ### Thorn
-
+I dont believe the processes that I do require such a high computing power. Maybe for a very specific work in the future but by that time I will be done with my MFA. We have a really powerful computer at the School of Art and that is more than what I need. 
 
 ### Bud
-
+Maybe for a project in the future. At least I will have some information about what it is and how it can be applied for research. 
 
 ---
 
@@ -29,4 +29,5 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **Due Thursday 30th, 11am**
